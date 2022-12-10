@@ -4,13 +4,6 @@ html {
   padding: 0;
 }
 
-body{
-    background-image: linear-gradient(
-    214deg,
-    #cfc2d7 14%, #b2cbea 46%, #ecca99 86% );
-  min-height: 100vh;
-}
-
 .screen-wrapper {
   width: 100vw;
   height: 100vh;
@@ -21,11 +14,6 @@ body{
 }
 
 .otp-container {
-
-    background-image: linear-gradient(
-        180deg,
-        rgb(209 212 245), rgb(224 196 139), rgb(19, 2, 39)
-      );
   width: 600px;
   padding: 20px;
   border: 2px solid black;
